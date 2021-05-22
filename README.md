@@ -1,5 +1,11 @@
 # Sales-Forecasting-For-Online-Mobile-Application-Based-Grocery-Retailer.
-Forecasting unit sales for a huge online/mobile application-based grocery retailer, across several locations and product categories
+
+Forecasting unit sales for a huge online/mobile application-based grocery
+retailer, across several locations and product categories. Using the past 4 years data and 3 other domain-related datasets, handled
+high cardinal categorical variable with `categorical embeddings` using deep learning, generated non-linear features using
+`autoencoders`, built a `regression-based model` using boosting tree method.
+
+![Alt Text](https://github.com/aayanmaity/Sales-Forecasting-For-Online-Mobile-Application-Based-Grocery-Retailer./blob/main/Report/nrd-D6Tu_L3chLE-unsplash.jpg)
 
 ## Project Details.
 
