@@ -78,4 +78,4 @@ competition. The datasets are named as follows and have the following attributes
 
 ## Reports
 
-Sales Forecasting For Small Basket 
+[Sales Forecasting For Small Basket](https://github.com/aayanmaity/Sales-Forecasting-For-Online-Mobile-Application-Based-Grocery-Retailer./blob/main/Report/Sales%20Forecasting%20for%20Small%20Basket%20.pdf)
